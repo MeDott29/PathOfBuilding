@@ -21,7 +21,7 @@ gha_enabled: True
 description: ''
 
 # This sets whether to create pull requests as drafts. If this is set to True, then all pull requests will be created as drafts and GitHub Actions will not be triggered.
-draft: False
+draft: True
 
 # This is a list of directories that Sweep will not be able to edit.
 blocked_dirs: []
